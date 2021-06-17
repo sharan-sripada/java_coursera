@@ -1,4 +1,4 @@
-package course1.Week3;
+package course1.week3;
 import edu.duke.*;
 
 import org.apache.commons.csv.CSVParser;
